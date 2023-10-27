@@ -46,8 +46,8 @@ const Header = () => {
               />
               <div className="text-sm flex flex-col">
                 <div className="flex items-center justify-between gap-4">
-                  <span>Jorge Luis Trejo</span>{" "}
-                  <span className="text-[8px]">21/10/2022</span>
+                  <span>Fernando Ruiz</span>{" "}
+                  <span className="text-[8px]">26/10/2023</span>
                 </div>
                 <p className="text-gray-500 text-xs">
                   Lorem ipsum dolor sit amet...
@@ -67,7 +67,7 @@ const Header = () => {
                   <span className="text-[8px]">21/10/2022</span>
                 </div>
                 <p className="text-gray-500 text-xs">
-                  A Jorge Trejo le gusta tu pub...
+                  A Fernan R. le gusta tu pub...
                 </p>
               </div>
             </Link>
@@ -84,7 +84,7 @@ const Header = () => {
                   <span className="text-[8px]">21/10/2022</span>
                 </div>
                 <p className="text-gray-500 text-xs">
-                  Jorge Trejo ha comentado tu...
+                  Hugo B. ha comentado tu...
                 </p>
               </div>
             </Link>
