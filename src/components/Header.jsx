@@ -106,7 +106,7 @@ const Header = () => {
                 src="https://img.freepik.com/foto-gratis/feliz-optimista-guapo-gerente-ventas-latina-apuntando-lado-mirando-camara_1262-12679.jpg"
                 className="w-6 h-6 object-cover rounded-full"
               />
-              <span>Jorge Luis Trejo</span>
+              <span>Fernando Ruiz</span>
               <RiArrowDownSLine />
             </MenuButton>
           }
@@ -126,8 +126,8 @@ const Header = () => {
                 className="w-8 h-8 object-cover rounded-full"
               />
               <div className="flex flex-col text-sm">
-                <span className="text-sm">Jorge Luis Trejo</span>
-                <span className="text-xs text-gray-500">jorge@gmail.com</span>
+                <span className="text-sm">Fernando Ruiz</span>
+                <span className="text-xs text-gray-500">fernando.ruiz1@gt.ey.com</span>
               </div>
             </Link>
           </MenuItem>
